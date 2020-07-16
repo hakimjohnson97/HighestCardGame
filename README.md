@@ -7,3 +7,4 @@ The relesase .exe for windows is located in release/windows
 References:
 Playing cards sprites: https://opengameart.org/content/playing-cards-vector-png
 Unity documentation: https://docs.unity3d.com/Manual/
+
