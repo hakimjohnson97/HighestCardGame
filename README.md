@@ -5,6 +5,7 @@ This is a game made in Unity which draws 1 card each for two players. The player
 The relesase .exe for windows is located in release/windows
 
 References:
+
 Playing cards sprites: https://opengameart.org/content/playing-cards-vector-png
 
 Unity documentation: https://docs.unity3d.com/Manual/
